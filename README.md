@@ -1,3 +1,3 @@
-# Algoritmo de edad en Java...
-Con este algoritmo se puede determinar la edad de un usuario.
-Está escrito en el lenguaje de programación Java.
+# Algoritmos en Java...
+Repositorio de recursos Java.
+Están escritos en el lenguaje de programación Java.

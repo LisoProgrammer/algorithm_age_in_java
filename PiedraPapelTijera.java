@@ -54,7 +54,7 @@ public class PiedraPapelTijera {
                     intentos_jugador1++;
                     intentos_jugador2++;
                     limpiarPantalla();
-                    System.out.println("------>Ingrese valores válidos: P, T, L. Intente valores diferentes al ingresado anteriormente.");
+                    System.out.println("------>Ingrese valores válidos: P, T, L. Intente un valor diferente al ingresado anteriormente.");
                     //loadVista(jugador1);
                 }else if(OP_1.equals(ganador)){
                     puntos_jugador1++;

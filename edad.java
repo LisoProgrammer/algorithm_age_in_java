@@ -1,8 +1,6 @@
 //algorithm_age_in_java
 
 
-// En java, el nombre de un archivo fuente debe coincidir con el nombre de la clase que contiene,
-// por lo que este archivo debería llamarse "MAYORNUMMENOR.java."
 
 import java.io.*;
 
